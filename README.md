@@ -36,6 +36,6 @@ Sistema de Gestão Escolar
 
 # Autor e mantenedor do projeto
 Renato Ferreira: https://www.linkedin.com/in/renatoredes/
-
+ 
 
 
