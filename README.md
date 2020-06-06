@@ -1,6 +1,3 @@
-# gs-school-puclic
-Gestão Escolar
-
 # GS-SHOOL-GUI
 
 Sistema de Gestão Escolar
