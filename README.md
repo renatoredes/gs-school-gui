@@ -1,6 +1,6 @@
 # GS-SHOOL-GUI
 
-Sistema de Gestão Escolar
+Sistema de Gestão Escolar - Projeto privado disponivel disponivel para todos que estão contribuindo e participando das reuniões do projeto.
 
 # Tecnologias utilizadas
 
