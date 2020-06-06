@@ -6,7 +6,7 @@ Sistema de Gestão Escolar
 
 * Angular 9
 * Bootstrap
-* Json Serve para Back end mocado
+* Json Serve para Back end mocado - neste primeiro momento iremos focar 100% no front com angular.
 * Ngx-Bootstrap
 * HTML
 * CSS
