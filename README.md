@@ -14,6 +14,7 @@ Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribui
 * Filtros
 * Paginação 
 * Json Serve: Será responsável por nos retornar uma API REST com um Back-end mocado, neste primeiro momento iremos focar 100% no front com angular e o JSON Serve ajuda na produtividade.
+* Firebase - Neste momento estaremos utilizando firebase da google para hospedagem de nossa aplicação.
 
 ## Instalação
 
