@@ -1,0 +1,98 @@
+<div class="main-content">
+    <div class="container-fluid">
+        <div class="row">
+
+
+            <div class="col-md-12">
+                <div class="card">
+                    <form #f2="ngForm" class="form-horizontal" novalidate (ngSubmit)="save2(f2.value, f2.valid)">
+                        <div class="content">
+                            <legend>Cadastrar Novo Aluno</legend>
+                            <fieldset>
+                                <div class="form-group">
+                                    <label class="col-sm-2 control-label">
+                                        Required Text
+                                    </label>
+                                    <div class="col-sm-6">
+                                        <input class="form-control" type="text" name="text" [ngModel]="typeValidation.text" required #text="ngModel">
+                                        <small [hidden]="text.valid || (text.pristine && !f2.submitted)" class="text-danger">
+                                          Text is required.
+                                          </small>
+                                    </div>
+                                    <div class="col-sm-4"><code>required</code></div>
+                                </div>
+                            </fieldset>
+
+                            <fieldset>
+                                <div class="form-group">
+                                    <label class="col-sm-2 control-label">
+                                        Email
+                                    </label>
+                                    <div class="col-sm-6">
+                                        <input type="email" class="form-control" name="email" [ngModel]="typeValidation.email" required #email="ngModel" pattern="^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$">
+                                        <small [hidden]="email.valid || (email.pristine && !f2.submitted)" class="text-danger">
+                                          Email is required and format should be <i>john@doe.com</i>.
+                                        </small>
+                                    </div>
+                                    <div class="col-sm-4"><code>email="true"</code></div>
+                                </div>
+                            </fieldset>
+
+                            <fieldset>
+                                <div class="form-group">
+                                    <label class="col-sm-2 control-label">
+                                        Number
+                                    </label>
+                                    <div class="col-sm-6">
+                                        <input class="form-control" type="number" name="number" number="true" [ngModel]="typeValidation.number" required #number="ngModel">
+                                    </div>
+                                    <div class="col-sm-4"><code>number="true"</code></div>
+                                </div>
+                            </fieldset>
+
+                            <fieldset>
+                                <div class="form-group">
+                                    <label class="col-sm-2 control-label">
+                                        Url
+                                    </label>
+                                    <div class="col-sm-6">
+                                        <input class="form-control" type="text" id="url" required pattern="https?://.+" [(ngModel)]="typeValidation.url" name="url" #url="ngModel">
+                                        <small [hidden]="url.valid || (url.pristine && !f2.submitted)" class="text-danger">
+                                            Must be a valid URL!
+                                          </small>
+                                    </div>
+                                    <div class="col-sm-4"><code>url="true"</code></div>
+                                </div>
+                            </fieldset>
+
+                            <fieldset>
+                                <div class="form-group column-sizing">
+                                    <label class="col-sm-2 control-label">
+                                        Equal to
+                                    </label>
+                                    <div class="col-sm-3">
+                                        <input type="text" class="form-control" name="idSource" [ngModel]="typeValidation.idSource" placeholder="#idSource" required validateEqual="idDestination" reverse="true" #idSource="ngModel">
+                                        <small [hidden]="idSource.valid || (idSource.pristine && !f2.submitted)" class="text-danger">
+                                          IdSource is required
+                                        </small>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <input type="text" class="form-control" name="idDestination" [ngModel]="typeValidation.idDestination" placeholder="#idDestination" required validateEqual="idSource" reverse="false" #idDestination="ngModel">
+                                        <small [hidden]="idDestination.valid || (idDestination.pristine && !f2.submitted)" class="text-danger">
+                                          IdSource mismatch!
+                                        </small>
+                                    </div>
+                                    <div class="col-sm-4"><code>equalTo="#idSource"</code>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </div>
+                        <div class="footer">
+                            <button type="submit" class="btn btn-info btn-fill">Validate Inputs</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

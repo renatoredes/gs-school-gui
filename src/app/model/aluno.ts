@@ -1,0 +1,30 @@
+export class Aluno {
+  id: number;
+  nome: string;
+  email: string;
+  serie: string;
+  ativo: boolean;
+  cep: string;
+  numero: number;
+  rua: string;
+  bairro: string;
+  cidade: string;
+  estado: string;
+  complemento: string;
+  sexo: string;
+  sobreNome: string;
+  nomeDoPai: string;
+  sobreDoPai: string;
+  nomeDaMae: string;
+  sobreDaMae: string;
+  dataNascimento: string;
+  cpf: string;
+  rg: string;
+  numeroCertidaoNascimento: string;
+  corRaca: string;
+  deficiencia: string;
+  tipo_deficiencia: string;
+  telefone: string;
+  celular: string;
+  nis: string;
+}

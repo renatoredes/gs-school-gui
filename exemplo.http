@@ -1,0 +1,34 @@
+### Instalação JSON SERVER
+### https://www.npmjs.com/package/json-server
+## Criar um arquivo na raiz do projeto com o nome db.json
+## Inicializar o servidor rest  
+###  json-server --watch db.json
+
+  http://localhost:3000/alunos
+
+#####
+
+
+GET http://localhost:3000/alunos/1
+
+########
+
+POST http://localhost:3000/alunos HTTP/1.1
+content-type: application/json
+
+{
+    "nome": "Patricia"
+}
+
+#####
+
+PUT http://localhost:3000/alunos/4 HTTP/1.1
+content-type: application/json
+
+{
+    "nome": "Rebeca"
+}
+
+#####
+
+DELETE  http://localhost:3000/alunos/4 
