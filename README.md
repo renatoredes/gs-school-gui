@@ -23,7 +23,7 @@ Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribui
 
 ## Instalação
 
-1. clone o repositório `git clone https://github.com/renatoredes/appfilmes.git`
+1. clone o repositório `https://github.com/renatoredes/gs-school-gui.git`
 2. Entre no projeto e instale as dependencias `npm install`
 
 ## Simulando o Back-end
