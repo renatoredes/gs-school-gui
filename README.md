@@ -41,5 +41,5 @@ Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribui
 * Jardiano Conceição: https://www.linkedin.com/in/jardianoalmeida/
 * Romário Coelho: https://www.linkedin.com/in/rom%C3%A1rio-coelho-oliveira-718781143/
 * Michelson Araújo: https://www.linkedin.com/in/michelson-ara%C3%BAjo-484912175/
-
+* Diego Schneider:  https://www.linkedin.com/in/diego-schneider-16568576/
 
