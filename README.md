@@ -7,7 +7,7 @@ Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribui
 * Angular 9
 * RxJS
 * Bootstrap
-* Ngx-Bootstrap
+* Ngx-Bootstrap: O ngx-bootstrap é uma biblioteca que abstrai e facilita o uso dos comportamentos que conseguíamos fazer com o jQuery.
 * HTML
 * CSS
 * JavaScript
