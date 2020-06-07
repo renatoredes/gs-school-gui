@@ -74,8 +74,6 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 * Anderson Castellani https://www.linkedin.com/in/anderson-castellani-99484025/
 
 # GS-SCHOOL EM DESENVOLVIMENTO
-* Formulário de cadastro de Aluno
-https://gs-school-gui.web.app/#/forms/novo
 * Data Table de Pesquisa de Aluno.
 https://gs-school-gui.web.app/#/tables/pesquisaralunos
 
