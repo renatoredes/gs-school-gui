@@ -43,4 +43,4 @@ Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribui
 * Michelson Araújo: https://www.linkedin.com/in/michelson-ara%C3%BAjo-484912175/
 * Diego Schneider:  https://www.linkedin.com/in/diego-schneider-16568576/
 * Bruno irineu https://www.linkedin.com/in/bruno-irineu-silva-do-nascimento-a3165568
-
+* Anderson Castellani https://www.linkedin.com/in/anderson-castellani-99484025/
