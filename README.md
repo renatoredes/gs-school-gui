@@ -30,6 +30,8 @@ Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribui
 
 Execute `npm install -g json-server` para instalar globalmente o servidor json. Após a instalação entre na pasta do projeto e execute `json-server --watch db.json`, com isso um servidor será inicializado na url `http://localhost:3000/`, após a inicialização sera possível realizar requisições http.
 
+No nosso caso não será nescessario pois já adcionamos o Json-serve no heroku você poderá consultar aqui: https://gsshool-api.herokuapp.com/alunos
+
 ## Ambiente Local
 
 Execute `ng serve` para que o projeto suba localmente. Acesse a url `http://localhost:4200/`. O projeto já está com reload automático conforme as alterações que você realizar no código
