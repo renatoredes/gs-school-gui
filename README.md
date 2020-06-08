@@ -6,8 +6,7 @@ Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribui
 * Projeto privado acessível apenas para membros que estão contribuindo de alguma forma no desenvolvimento deste projeto.
 Estamos desenvolvendo um produto de Gestão Escolar totalmente online, uma solução perfeita para organizar escola, professor e aluno.
 
-
-# Objetivo 
+# Objetivo
 * Estudo: Este projeto poderá servir apenas para fins de estudo.
 * O contribuinte do projeto poderá comercializar ?
 * **Sim** Ele poderá opitar por evoluir Sozinho.
