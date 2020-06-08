@@ -60,7 +60,7 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 * **Garantir** a **Contribuição** no projeto de forma direta ou indireta.
 
 # Como contribuir?
-* Envie uma solicitação para o E-mail: renatorede2015@gmail.com
+* Envie uma solicitação para o E-mail: projetos.software.ti@gmail.com
 
 # Autor e mantenedor do projeto
 * Renato Ferreira: https://www.linkedin.com/in/renatoredes/
