@@ -19,7 +19,7 @@ Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribui
 * **Garantir** a **Contribuição** no projeto de forma direta ou indireta.
 
 # Como contribuir?
-* Envie uma solicitação para o E-mail: projetos.software.ti@gmail.com
+* Envie uma solicitação para o E-mail: projetos.software.ti@gmail.com - Enviei no E-mail seu whatsapp para eu te adcionar no grupo do projeto e o nivél de conhecimento nas tecnologias: ANGULAR,API REST,HTML,CSS,GIT
 
 # Tecnologias utilizadas neste projeto.
 
