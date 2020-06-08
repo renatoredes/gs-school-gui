@@ -2,7 +2,26 @@
 
 Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribuintes em atividades no projeto.
 
-# Tecnologias utilizadas
+# Sobre
+* Projeto privado e estar acessível apenas para membros que estão contribuindo de alguma forma no desenvolvimento deste projeto.
+
+# Objetivo 
+* Estudo: Este projeto poderá servir apenas para fins de estudo.
+* O contribuinte do projeto poderá comercializar ?
+* **Sim** Ele poderá opitar por evoluir Sozinho.
+* **Sim** Firmar parcerias com alguns membros da equipe.
+* **Sim** Firmar parceria com toda equipe do projeto.
+
+# Regras:
+### Para continuar tendo acesso ao projeto e as evoluções o contribuinte deverá assumir algumas responsabilidades.
+* **Reuniões**: Temos reuniões de gerenciamento do projeto online e é obrigatorio participar <br />
+ O Contribuinte que faltar 2 reuniões será removido do projeto automaticamente.
+* **Garantir** a **Contribuição** no projeto de forma direta ou indireta.
+
+# Como contribuir?
+* Envie uma solicitação para o E-mail: projetos.software.ti@gmail.com
+
+# Tecnologias utilizadas neste projeto.
 
 * Angular 9
 * RxJS
@@ -39,28 +58,6 @@ Execute `ng serve` para que o projeto suba localmente. Acesse a url `http://loca
 ## Gerando componente
 
 Execute `ng generate component nome-do-componente` para criar um novo componente. Você também pode usuar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-# Sobre
-* Este é um projeto privado e estar acessível apenas para os membros que estão contribuindo de alguma forma no desenvolvimento do mesmo.
-
-# Objetivo
-
-* Estudo: Este projeto poderá servir apenas para fins de estudo.
-
-* O contribuinte do projeto poderá comercializar ?
-
-* **Sim** Ele poderá opitar por evoluir Sozinho.
-* **Sim** Firmar parcerias com alguns membros da equipe.
-* **Sim** Firmar parceria com toda equipe do projeto.
-
-# Regras:
-### O Contribuinte para continuar tendo acesso ao projeto deverá assumir algumas responsabilidades.
-* **Reuniões**: Temos reuniões de gerenciamento do projeto online é obrigatorio participar <br />
- O Contribuinte que faltar 2 reuniões será removido do projeto automaticamente.
-* **Garantir** a **Contribuição** no projeto de forma direta ou indireta.
-
-# Como contribuir?
-* Envie uma solicitação para o E-mail: projetos.software.ti@gmail.com
 
 # Autor e mantenedor do projeto
 * Renato Ferreira: https://www.linkedin.com/in/renatoredes/
