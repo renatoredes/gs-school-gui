@@ -77,4 +77,5 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 * Data Table de Pesquisa de Aluno.
 https://gs-school-gui.web.app/#/tables/pesquisaralunos
 
-
+### GS-SCHOOL EXEMPLO CADASTRO DE ALUNO
+[Video de Exemplo ](https://www.youtube.com/watch?v=eWn0fdsDP4E)
