@@ -64,6 +64,8 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 
 # Autor e mantenedor do projeto
 * Renato Ferreira: https://www.linkedin.com/in/renatoredes/
+<br >
+[Conhecimentos necessários](https://drive.google.com/file/d/1pbaSyc7ih4zbhhDrkaWWsG9UqPAihVW5/view?usp=sharing)
 
 # Contribuinte ativos neste projeto:
 * Jardiano Conceição: https://www.linkedin.com/in/jardianoalmeida/
