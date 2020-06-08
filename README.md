@@ -3,7 +3,7 @@
 Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribuintes em atividades no projeto.
 
 # Sobre
-* Projeto privado e estar acessível apenas para membros que estão contribuindo de alguma forma no desenvolvimento deste projeto.
+* Projeto privado acessível apenas para membros que estão contribuindo de alguma forma no desenvolvimento deste projeto.
 
 # Objetivo 
 * Estudo: Este projeto poderá servir apenas para fins de estudo.
