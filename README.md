@@ -1,5 +1,5 @@
 # GS-SHOOL-GUI
-### Este estar em desenvolvimento.
+### Este projeto está em fase desenvolvimento.
 Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribuintes em atividades no projeto.
 
 # Sobre
