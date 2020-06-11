@@ -64,13 +64,6 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 * Renato Ferreira: https://www.linkedin.com/in/renatoredes/
 
 # Contribuinte ativos neste projeto:
-* Jardiano Conceição: https://www.linkedin.com/in/jardianoalmeida/
-* Romário Coelho: https://www.linkedin.com/in/rom%C3%A1rio-coelho-oliveira-718781143/
-* Michelson Araújo: https://www.linkedin.com/in/michelson-ara%C3%BAjo-484912175/
-* Diego Schneider:  https://www.linkedin.com/in/diego-schneider-16568576/
-* Bruno irineu https://www.linkedin.com/in/bruno-irineu-silva-do-nascimento-a3165568
-* Anderson Castellani: https://www.linkedin.com/in/anderson-castellani-99484025/
-* Andre Santana: https://www.linkedin.com/in/andre-santana-04643256/
 
 # GS-SCHOOL EM DESENVOLVIMENTO
 * Data Table de Pesquisa de Aluno.
