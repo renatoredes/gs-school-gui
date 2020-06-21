@@ -64,6 +64,7 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 * Renato Ferreira: https://www.linkedin.com/in/renatoredes/
 
 # Contribuinte ativos neste projeto:
+* Raphael Paulino https://www.linkedin.com/in/raphaelalvespaulino/
 
 # GS-SCHOOL EM DESENVOLVIMENTO
 * Data Table de Pesquisa de Aluno.
