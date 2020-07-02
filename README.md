@@ -1,6 +1,6 @@
 # GS-SHOOL-GUI
-### Este projeto está em fase desenvolvimento.
-Sistema de Gestão Escolar - Projeto privado disponivel apenas para os contribuintes em atividades no projeto.
+### Este projeto está em fase de desenvolvimento.
+Sistema de Gestão Escolar - Projeto privado, esse é um README de Portfólio do projeto.
 
 # Sobre
 * Projeto privado, GS-SCHOOL é um produto de Gestão Escolar totalmente online, uma solução perfeita para organizar escola, professor e aluno.
