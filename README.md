@@ -3,7 +3,7 @@
 Sistema de Gestão Escolar - Projeto privado este README é apenas um Portfólio das tecnologias utilizada até o momento no projeto do projeto.
 
 # Sobre
-* Projeto privado, GS-SCHOOL é um produto de Gestão Escolar totalmente online, uma solução perfeita para organizar escola, professor e aluno.
+* Projeto privado O Sistema: GS-SCHOOL é um produto de Gestão Escolar totalmente online e uma solução perfeita para organizar escola, professor e aluno.
 
 # Objetivo
 Ajudar na gestão escolar
