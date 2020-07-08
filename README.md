@@ -49,6 +49,9 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 # Autor e mantenedor do projeto
 * Renato Ferreira: https://www.linkedin.com/in/renatoredes/
 
+# Como contribuir com o projeto ?
+Me chama no Linkedin ou Zap: (081) 98541-0556
+
 # GS-SCHOOL EM DESENVOLVIMENTO
 * DataTable de Pesquisa de Aluno.
 https://gs-school-gui.web.app/#/tables/pesquisaralunos
