@@ -63,5 +63,5 @@ Me chama no Linkedin ou Zap: (081) 98541-0556
 * DataTable de Pesquisa de Aluno.
 https://gs-school-gui.web.app/#/tables/pesquisaralunos
 
-### GS-SCHOOL EXEMPLO CADASTRO DE ALUNO
+### GS-SCHOOL VIDEO EXEMPLO CADASTRO DE ALUNO
 [Video de Exemplo ](https://www.youtube.com/watch?v=eWn0fdsDP4E)
