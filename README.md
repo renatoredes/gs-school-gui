@@ -47,15 +47,16 @@ Execute `ng serve` para que o projeto suba localmente. Acesse a url `http://loca
 Execute `ng generate component nome-do-componente` para criar um novo componente. Você também pode usuar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 # Autor e mantenedor do projeto
+<br />
 * Renato Ferreira: https://www.linkedin.com/in/renatoredes/
 
 # Como contribuir com o projeto ?
 Me chama no Linkedin ou Zap: (081) 98541-0556
 
-### API REST - Desenvolvida e Hospedada no Heroku
+## API REST - Desenvolvida e Hospedada no Heroku
 ![Product Gif](https://media.giphy.com/media/UtJ8gHzlF4so1oDb4i/giphy.gif)
 
-### Front-End da aplicação desenvolvida com as tecnologias comentada no inicio deste README.
+## Front-End da aplicação desenvolvida com as tecnologias comentada no inicio deste README.
 ![Product Gif](https://media.giphy.com/media/mEn02UOdkqZLgt3ruO/giphy.gif)
 
 # GS-SCHOOL EM DESENVOLVIMENTO
