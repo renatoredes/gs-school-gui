@@ -52,6 +52,8 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 # Como contribuir com o projeto ?
 Me chama no Linkedin ou Zap: (081) 98541-0556
 
+![Product Gif](https://media.giphy.com/media/UtJ8gHzlF4so1oDb4i/source.mov)
+
 # GS-SCHOOL EM DESENVOLVIMENTO
 * DataTable de Pesquisa de Aluno.
 https://gs-school-gui.web.app/#/tables/pesquisaralunos
