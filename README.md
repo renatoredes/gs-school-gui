@@ -50,8 +50,6 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 <br />
 * Renato Ferreira: https://www.linkedin.com/in/renatoredes/
 
-# Como contribuir com o projeto ?
-Me chama no Linkedin ou Zap: (081) 98541-0556
 
 ## API REST - Desenvolvida e Hospedada no Heroku
 ![Product Gif](https://media.giphy.com/media/UtJ8gHzlF4so1oDb4i/giphy.gif)
