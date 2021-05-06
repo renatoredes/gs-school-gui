@@ -64,3 +64,11 @@ https://gs-school-gui.web.app/#/tables/pesquisaralunos
 
 ### GS-SCHOOL VIDEO EXEMPLO CADASTRO DE ALUNO
 [Video de Exemplo ](https://www.youtube.com/watch?v=eWn0fdsDP4E)
+
+## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | [Renato](https://www.linkedin.com/in/renatoredes/)<br />
+
+
